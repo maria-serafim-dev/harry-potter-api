@@ -1,28 +1,32 @@
 [
   {
-    "name": "Harry Potter",
-    "description": "Harry James Potter was an English half-blood wizard, and one of the most famous wizards of modern times. The only child and son of James and Lily Potter, Harry's birth was overshadowed by a prophecy, naming either himself or Neville Longbottom as the one with the power to vanquish Lord Voldemort, the most powerful and feared Dark Wizard in the world. After half of the prophecy was reported to Voldemort, courtesy of Severus Snape, Harry was chosen as the target due to his many similarities with the Dark Lord. In turn, this caused the Potter family to go into hiding.",
-    "alternate_names": [],
-    "species": "human",
+    "name": "Remus Lupin",
+    "description": "Professor Remus John Lupin, O.M. (First Class), also known as Moony, was a half-blood wizard and the only son of Lyall and Hope Lupin (née Howell). He was attacked by werewolf Fenrir Greyback when he was a child, a result of Greyback's revenge against Lyall, leaving Remus afflicted with lycanthropy for life.[5] He attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978 and was sorted into Gryffindor House. During his school years he was one of the Marauders, best friends with Sirius Black, James Potter, and Peter Pettigrew. Together, they created the Marauder's Map.",
+    "alternate_names": [
+    "Professor Lupin",
+    "Moony",
+    "Remus John Lupin"
+    ],
+    "species": "werewolf",
     "gender": "male",
     "house": "Gryffindor",
-    "dateOfBirth": "31-07-1980",
-    "yearOfBirth": 1980,
+    "dateOfBirth": "10-03-1960",
+    "yearOfBirth": 1960,
     "wizard": true,
     "ancestry": "half-blood",
     "eyeColour": "green",
-    "hairColour": "black",
+    "hairColour": "brown",
     "wand": {
-      "wood": "holly",
-      "core": "phoenix feather",
-      "length": 11
+    "wood": "cypress",
+    "core": "unicorn tail-hair",
+    "length": 10.25
     },
-    "patronus": "stag",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "Daniel Radcliffe",
+    "patronus": "wolf",
+    "hogwartsStudent": false,
+    "hogwartsStaff": true,
+    "actor": "David Thewlis",
     "alternate_actors": [],
-    "alive": true,
-    "image": "https://hp-api.herokuapp.com/images/harry.jpg"
+    "alive": false,
+    "image": "https://hp-api.herokuapp.com/images/lupin.jpg"
   }
 ]
